@@ -1,4 +1,5 @@
 cookie-clicker-hack
+
 **Infinite Cookies**
 	    Game.cookies=Infinity;
         
