@@ -1,5 +1,6 @@
 # cookie-clicker-hack
 hacks for cookie clicker
 
-**Infinite Cookies**
-	---Game.cookies=Infinity;
+	# H1**Infinite Cookies**
+	---
+	Game.cookies=Infinity;
