@@ -1,6 +1,6 @@
 cookie-clicker-hack
 
-	Game.cookies=Infinity;
+	    Game.cookies=Infinity;
         
         Game.cookies=number
         
