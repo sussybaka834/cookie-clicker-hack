@@ -1,6 +1,6 @@
 cookie-clicker-hack
         
-	**Infinite Cookies**
+    Infinite Cookies
         Game.Earn(number)
 	
         Game.cookies=number
