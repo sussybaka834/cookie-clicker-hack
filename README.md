@@ -1,8 +1,8 @@
 cookie-clicker-hack
-
-**Infinite Cookies**
-	    Game.cookies=Infinity;
         
+	**Infinite Cookies**
+        Game.Earn(number)
+	
         Game.cookies=number
         
         Game.cookiesPs=number
